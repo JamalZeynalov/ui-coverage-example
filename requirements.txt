@@ -1,0 +1,13 @@
+python-dotenv==1.0.1
+jira==3.8.0
+black==24.4.2
+pylint==3.2.3
+pytest==8.2.2
+pytest-xdist==3.6.1
+allure-pytest~=2.13.2
+pytest-instafail~=0.5.0
+pytest-jira-xfail==1.2.0
+pytest-playwright==0.5.0
+playwright==1.44.0
+playwright-dompath==0.0.1
+PyHamcrest==2.1.0
